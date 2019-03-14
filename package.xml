@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>pysdf</name>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <description>Python library to parse SDF into class hierarchy and export URDF</description>
 
   <maintainer email="andreas.bihlmaier@gmx.de">Andreas Bihlmaier</maintainer>
