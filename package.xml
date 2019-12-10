@@ -4,7 +4,8 @@
   <version>0.2.0</version>
   <description>Python library to parse SDF into class hierarchy and export URDF</description>
 
-  <maintainer email="andreas.bihlmaier@gmx.de">Andreas Bihlmaier</maintainer>
+  <maintainer email="rdiethelm@anybotics.com">Remo Diethelm</maintainer>
+  <maintainer email="pleemann@anybotics.com">Philipp Leemann</maintainer>
   <license>MIT</license>
   <url type="website">http://wiki.ros.org/pysdf</url>
   <author email="andreas.bihlmaier@gmx.de">Andreas Bihlmaier</author>
